@@ -12,7 +12,7 @@ tags:
     label: Outstatic
   - value: nextJs
     label: NextJs
-publishedAt: 2024-01-11T20:59:36.724Z
+publishedAt: 2026-01-07T03:00:00.000Z
 ---
 
 In this blog post, we will explore the step-by-step process of integrating Outstatic into a Next.js website, allowing for efficient content management and improved performance. The installation should take less than 10 minutes.

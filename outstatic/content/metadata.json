@@ -1,6 +1,6 @@
 {
-  "commit": "3818dcefbb123582711f98b8f998a65e17796472",
-  "generated": "2026-06-01T19:02:44.567Z",
+  "commit": "368c2479ba195336e5459320085bb12e50a7765b",
+  "generated": "2026-06-01T19:02:57.168Z",
   "metadata": [
     {
       "__outstatic": {
@@ -164,8 +164,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3818dcefbb123582711f98b8f998a65e17796472",
-        "hash": "1672468469",
+        "commit": "368c2479ba195336e5459320085bb12e50a7765b",
+        "hash": "1306649620",
         "path": "outstatic/content/posts/add-a-free-cms-to-your-nextjs-website-with-outstatic.md"
       },
       "author": {
@@ -175,7 +175,7 @@
       "collection": "posts",
       "coverImage": "/images/outstatic-landing-M3MT.png",
       "description": "Learn how to seamlessly integrate Outstatic into your Next.js website.",
-      "publishedAt": "2024-01-11T20:59:36.724Z",
+      "publishedAt": "2026-01-07T03:00:00.000Z",
       "slug": "add-a-free-cms-to-your-nextjs-website-with-outstatic",
       "status": "published",
       "tags": [
