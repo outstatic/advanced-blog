@@ -17,7 +17,7 @@ publishedAt: 2024-01-11T20:59:36.724Z
 
 In this blog post, we will explore the step-by-step process of integrating Outstatic into a Next.js website, allowing for efficient content management and improved performance. The installation should take less than 10 minutes.
 
-Requirements: A Next.js 13+ website and a GitHub Account.
+Requirements: A Next.js 15+ website and a GitHub Account.
 
 ## Setting up a GitHub OAuth Application:
 

@@ -1,6 +1,6 @@
 {
-  "commit": "58dd92b6837c68e9663b8328e7450cd575c87855",
-  "generated": "2026-06-01T18:51:58.292Z",
+  "commit": "3818dcefbb123582711f98b8f998a65e17796472",
+  "generated": "2026-06-01T19:02:44.567Z",
   "metadata": [
     {
       "__outstatic": {
@@ -164,8 +164,8 @@
     },
     {
       "__outstatic": {
-        "commit": "58dd92b6837c68e9663b8328e7450cd575c87855",
-        "hash": "2415584933",
+        "commit": "3818dcefbb123582711f98b8f998a65e17796472",
+        "hash": "1672468469",
         "path": "outstatic/content/posts/add-a-free-cms-to-your-nextjs-website-with-outstatic.md"
       },
       "author": {
